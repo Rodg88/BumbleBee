@@ -1,7 +1,7 @@
 # BumbleBeeRelease
 Dragonfly parts for KSP
 
-Alpha test for Zarb :P
+VERY ALPHA. most parts in structural (rtg in electrical), at start of tech tree, and free.
 
 Bundles B9 Part Switch by Blowfish https://github.com/blowfishpro/B9PartSwitch/releases
 
