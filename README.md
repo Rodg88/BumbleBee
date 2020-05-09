@@ -1,8 +1,12 @@
 # BumbleBeeRelease
 Dragonfly parts for KSP
 
-VERY ALPHA. most parts in structural (rtg in electrical), at start of tech tree, and free.
+Beta version, not for release. Parts need tech tree placement
 
-Bundles B9 Part Switch by Blowfish https://github.com/blowfishpro/B9PartSwitch/releases
-
-and Kerbal Actuators by Angel-125 https://github.com/Angel-125/KerbalActuators/releases
+Bundles:
+ModuleManager
+B9 Part Switch by Blowfish https://github.com/blowfishpro/B9PartSwitch/releases
+Kerbal Actuators by Angel-125 https://github.com/Angel-125/KerbalActuators/releases
+CommunityResourcePack
+CommunityCategoryKit 
+DMagic ModuleScienceAnimateGeneric
