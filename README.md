@@ -6,6 +6,7 @@ Beta version, not for release. Parts need tech tree placement
 License: CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Bundles the following mods, which are covered by their own respective licenses:
+
 ModuleManager by Sarbian and Blowfish https://github.com/sarbian/ModuleManager
 
 B9 Part Switch by Blowfish https://github.com/blowfishpro/B9PartSwitch/releases
