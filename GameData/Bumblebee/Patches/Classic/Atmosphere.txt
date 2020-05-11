@@ -1,0 +1,18 @@
+@PART[bb_Prop|bb_PropSingle]
+{
+	@MODULE[ModuleResourceIntake]:HAS[#resourceName[IntakeAtm]]
+	{
+		@resourceName = Atmosphere
+	}
+	@RESOURCE[IntakeAtm]
+	{
+		@name = Atmosphere
+	}
+	@MODULE[ModuleEnginesFX],*
+	{
+		@PROPELLANT[IntakeAtm]
+		{
+			@name = Atmosphere
+		}
+	}
+}
