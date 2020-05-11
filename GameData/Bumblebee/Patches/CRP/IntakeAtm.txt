@@ -1,0 +1,25 @@
+@PART[bb_Prop|bb_PropSingle]:AFTER[Bumblebee]:NEEDS[CommunityResourcePack]
+{
+	@MODULE[ModuleResourceIntake]:HAS[#resourceName[IntakeAir]]
+	{
+		@resourceName = IntakeAtm
+	}
+	@RESOURCE[IntakeAir]
+	{
+		@name = IntakeAtm
+	}
+	@MODULE[ModuleEnginesFX],*
+	{
+		@PROPELLANT[IntakeAir]
+		{
+			@name = IntakeAtm
+		}
+	}
+	@MODULE[ModuleReactionWheel]
+    {
+		@RESOURCE[IntakeAir]
+		{
+			@name = IntakeAtm
+		}
+    }
+}
