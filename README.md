@@ -1,7 +1,7 @@
 # BumbleBeeRelease
 Dragonfly parts for KSP
 
-Beta version, not for release. Parts need tech tree placement
+Beta version.
 
 License: CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
